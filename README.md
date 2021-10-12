@@ -3,4 +3,4 @@ This command-line application will generate a descriptive and professional READM
 
 example video: https://github.com/FilipAlH/ReadME-Generator/blob/main/2021-10-12%2016-36-53.mkv
 
-[![Video]](https://www.youtube.com/watch?v=84xVv3z_7_s)
+[!or watch it here](https://www.youtube.com/watch?v=84xVv3z_7_s)
