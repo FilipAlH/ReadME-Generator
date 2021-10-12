@@ -13,12 +13,16 @@
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-- [Tests](#tests)
-- [Questions?](#questions)
+- [Filip's Project](#filips-project)
+- [!MIT](#)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credits)
+  - [License](#license)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
 
 ## Installation
@@ -48,7 +52,7 @@ none
 
 ## Questions
 
-* My GitHub: (https://github.com/FilipAlH")
+* My GitHub: (https://github.com/FilipAlH)
 * My Email (Filip)
 
 using my email

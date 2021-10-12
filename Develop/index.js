@@ -153,7 +153,7 @@ This project is protected under the ${response.licenseList} license
 ${response.testing}
 \n
 ## Questions\n
-* My GitHub: (https://github.com/${response.questions1}")
+* My GitHub: (https://github.com/${response.questions1})
 * My Email (${response.questions2})\n
 ${response.questions3}
 `
